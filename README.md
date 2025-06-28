@@ -11,10 +11,8 @@
 *A modern, full-stack real-time pizza ordering application built with Node.js, Express, MongoDB, and Socket.io*
 
 [Features](#-features) •
-[Demo](#-demo) •
 [Installation](#-installation) •
 [Usage](#-usage) •
-[API Documentation](#-api-documentation) •
 [Contributing](#-contributing)
 
 </div>
